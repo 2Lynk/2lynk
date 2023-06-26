@@ -1,5 +1,6 @@
 ### Hi there 👋
-Welcome to my github page! I am a passionate developer who likes to create solutions for problems I find or mods for games that I like :)
+Welcome to my github page! 
+A little bit about me, I am a passionate developer who likes to create solutions for problems I find or mods for games that I like.
 
 ---
 ### Skills
